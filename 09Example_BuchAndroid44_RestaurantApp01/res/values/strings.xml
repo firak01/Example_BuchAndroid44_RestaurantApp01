@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Restaurant App</string>
+    
+    <string name="main_bestellung">Bestellung:</string>
+    
+    <string name="kat_getraenke">Getränke</string>
+    <string name="kat_vorspeisen">Vorspeisen</string>
+    <string name="kat_hauptgang">Hauptspeisen</string>
+    
+    <string name="item_saft">Saft</string>
+    <string name="item_bier">Bier</string>
+    <string name="item_latte">Latte Macciato</string>
+    <string name="item_crostini">Crostini</string>
+    <string name="item_pastete">Pastete</string>
+    <string name="item_salat">Salat</string>
+    <string name="item_fisch">Fisch</string>
+    <string name="item_filet">Schweinefilet</string>
+    <string name="item_pizza">Pizza</string>
+
+</resources>
